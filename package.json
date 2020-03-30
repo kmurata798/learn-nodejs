@@ -18,5 +18,8 @@
   "homepage": "https://github.com/kmurata798/learn-nodejs#readme",
   "dependencies": {
     "uuid": "^7.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
   }
 }
