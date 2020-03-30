@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kmurata798/learn-nodejs/issues"
   },
-  "homepage": "https://github.com/kmurata798/learn-nodejs#readme"
+  "homepage": "https://github.com/kmurata798/learn-nodejs#readme",
+  "dependencies": {
+    "uuid": "^7.0.2"
+  }
 }
